@@ -47,10 +47,10 @@ ClipRect(
 ![Home Screen](https://github.com/user-attachments/assets/eb027b29-9c5b-46ca-bb4f-5c4db76c8e96)
 
 ### Tap & Focus Demo
-![Tap & Focus](https://github.com/user-attachments/assets/0ae3c462-8dc4-4669-a1a7-d3f499ca28c0)
+![Tap & Focus](https://github.com/user-attachments/assets/9515a34c-856c-459f-9edc-109812bf4f16)
 
 ### Clipping Types Demo
-![Clipping Types](https://github.com/user-attachments/assets/9515a34c-856c-459f-9edc-109812bf4f16)
+![Clipping Types](https://github.com/user-attachments/assets/0ae3c462-8dc4-4669-a1a7-d3f499ca28c0)
 
 
 ## ⚙️ How to Run
