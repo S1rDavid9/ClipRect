@@ -14,21 +14,6 @@ This app demonstrates ClipRect through two interactive screens:
 
 2. **Clipping Types Comparison** - A carousel demonstrating ClipRect alongside ClipRRect, ClipOval, and ClipPath, with live sliders to adjust clipping parameters in real-time.
 
-## 🎯 Real-World Use Case
-
-**Scenario:** Photo editing and product preview applications
-
-Users often need to isolate and inspect specific regions of an image. This demo simulates a tap-to-focus feature where:
-- Users tap anywhere on an image
-- The selected region is highlighted with ClipRect
-- The rest of the image blurs, drawing attention to the focused area
-- Smooth animations enhance the user experience
-
-Similar functionality appears in:
-- Photo editing apps (crop preview, detail inspection)
-- E-commerce product viewers (zoom to see texture/details)
-- Medical imaging applications (focus on specific regions)
-- AR interfaces (isolate objects for analysis)
 
 ## 🔑 Three Key Attributes
 
@@ -56,13 +41,13 @@ ClipRect(
 ## 📸 Screenshots
 
 ### Home Screen
-<img src="assets/home_screen.png" width="300">
+<img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\home_screen.png" width="300">
 
 ### Tap & Focus Demo
-<img src="assets/tapfocus_screen.png" width="300">
+<img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\tapfocus_screen.png" width="300">
 
 ### Clipping Types Demo
-<img src="assets/clipping_screen.png" width="300">
+<img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\clipping_screen.png" width="300">
 
 ## ⚙️ How to Run
 
@@ -125,9 +110,10 @@ This project is open source and available for educational purposes.
 ---
 
 **Assignment Submission:** Flutter Widget Presentation - ClipRect
+
 **Date:** 21-10-2025 
+
 **Course:** Mobile Application Development
-```
 
 ---
 
