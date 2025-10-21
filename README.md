@@ -41,7 +41,7 @@ ClipRect(
 ## 📸 Screenshots
 
 ### Home Screen
-<img src="home_screen.png" width="300">
+![Home Screen](https://github.com/user-attachments/assets/eb027b29-9c5b-46ca-bb4f-5c4db76c8e96)
 
 ### Tap & Focus Demo
 <img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\tapfocus_screen.png" width="300">
