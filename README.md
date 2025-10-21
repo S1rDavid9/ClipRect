@@ -23,6 +23,7 @@ This app demonstrates ClipRect through two interactive screens:
 | **`clipBehavior`** | Controls the quality of the clipping edges. Options include `Clip.hardEdge` (fast), `Clip.antiAlias` (smooth), `Clip.antiAliasWithSaveLayer` (highest quality), or `Clip.none`. | We use `Clip.antiAlias` for smooth edges when the focused area zooms in, balancing performance with visual quality. |
 | **`Align` with `widthFactor` / `heightFactor`** | While not directly part of ClipRect, the `Align` widget is commonly used with ClipRect to control what portion of the child is visible. Values range from 0.0 (fully clipped) to 1.0 (fully visible). | The slider in the Clipping Types Demo adjusts these factors dynamically, letting users see more or less of the image in real-time. |
 
+
 ### Code Example
 ```dart
 ClipRect(
@@ -38,16 +39,19 @@ ClipRect(
 
 **Location in code:** `lib/main.dart` → `ClipImageCard` class → `_buildClippedImage()` method → `case 'ClipRect':`
 
+
+
 ## 📸 Screenshots
 
 ### Home Screen
 ![Home Screen](https://github.com/user-attachments/assets/eb027b29-9c5b-46ca-bb4f-5c4db76c8e96)
 
 ### Tap & Focus Demo
-<img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\tapfocus_screen.png" width="300">
+![Tap & Focus](https://github.com/user-attachments/assets/0ae3c462-8dc4-4669-a1a7-d3f499ca28c0)
 
 ### Clipping Types Demo
-<img src="C:\Users\Akachi\flutter_mobile_projects\ClipRect\cliprect_demo\screenshots\clipping_screen.png" width="300">
+![Clipping Types](https://github.com/user-attachments/assets/9515a34c-856c-459f-9edc-109812bf4f16)
+
 
 ## ⚙️ How to Run
 
